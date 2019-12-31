@@ -1,0 +1,4 @@
+# Handle the vendored code
+assets/*.css linguist-vendored
+*.png binary
+*.jpg binary
